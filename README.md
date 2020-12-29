@@ -1,3 +1,3 @@
 # HTML/CSS Practice
 
-CSS is so much fun!
+HTML & CSS are so much fun!
